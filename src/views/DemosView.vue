@@ -6,10 +6,10 @@
         <span class="pb-2">Demo 1:</span>
         <audio
           controls
-          src="/sample-sound.mp3"
+          src="@/dist/sample-sound.mp3"
           class="pb-4"
         >
-          <a href="/sample-sound.mp3">
+          <a href="@/dist/sample-sound.mp3">  
             Download audio
           </a>
         </audio>
@@ -19,10 +19,10 @@
         <span class="pb-2">Demo 2:</span>
         <audio
           controls
-          src="/sample-sound.mp3"
+          src="@/dist/sample-sound.mp3"
           class="pb-4"
         >
-          <a href="/sample-sound.mp3">
+          <a href="@/dist/sample-sound.mp3">  
             Download audio
           </a>
         </audio>
@@ -32,23 +32,10 @@
         <span class="pb-2">Demo 3:</span>
         <audio
           controls
-          src="/sample-sound.mp3"
+          src="@/dist/sample-sound.mp3"
           class="pb-4"
         >
-          <a href="/sample-sound.mp3">
-            Download audio
-          </a>
-        </audio>
-      </div>
-
-      <div class="audio-wrapper">
-        <span class="pb-2">Demo 4:</span>
-        <audio
-          controls
-          src="/sample-sound.mp3"
-          class="pb-4"
-        >
-          <a href="/sample-sound.mp3">
+          <a href="@/dist/sample-sound.mp3">  
             Download audio
           </a>
         </audio>
